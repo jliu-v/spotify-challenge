@@ -1,6 +1,6 @@
 #!/usr/local/bin/bash
 
-data_dir='../data/'
+data_dir='../spotify_million_playlist_dataset/data/'
 
 # remove temp file
 rm temp_*.txt;
